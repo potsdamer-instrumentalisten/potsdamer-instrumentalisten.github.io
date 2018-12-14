@@ -3,6 +3,4 @@ title: Hochschulgruppe Potsdamer Instrumentalisten
 layout: default
 ---
 
-# Hochschulgruppe Potsdamer Instrumentalisten
-
-Wer sind wir? [TBD]
+# Diese Seite ist aktuell noch im Aufbau
