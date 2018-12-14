@@ -1,6 +1,6 @@
 ---
 title: Hochschulgruppe Potsdamer Instrumentalisten
-layout: none
+layout: default
 ---
 
 # Hochschulgruppe Potsdamer Instrumentalisten
