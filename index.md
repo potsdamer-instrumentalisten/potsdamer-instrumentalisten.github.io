@@ -1,5 +1,6 @@
 ---
 title: Hochschulgruppe Potsdamer Instrumentalisten
+tagline: ""
 layout: default
 ---
 
