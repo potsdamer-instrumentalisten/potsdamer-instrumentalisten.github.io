@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#banner {
+    #cal-logo {
+      position:absolute;
+      height: 36px;
+      width: 36px;
+      right:7px;
+      top:7px;
+      bottom:7px;
+      display: block;
+      font-size: 36px; 
+    }
+  }

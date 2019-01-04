@@ -1,3 +1,9 @@
 title: Hochschulgruppe Potsdamer Instrumentalisten
-description: ""
-theme: jekyll-theme-cayman
+description: " "
+theme: jekyll-theme-leap-day
+repository: potsdamer-instrumentalisten/potsdamer-instrumentalisten.github.io
+github:
+  is_project_page: False
+calendar:
+  show: True
+  url: https://calendar.google.com/calendar/embed?src=988mcobbk63uv1l1drvm46hb8c%40group.calendar.google.com&ctz=Europe%2FBerlin
