@@ -42,9 +42,9 @@
         {% if site.calendar.show %}
           <div class="calendar">
             <h1 id="kalender">Kalender</h1>
-            <iframe src="{{ site.calendar.url }}" style="border: 0" width="100%" height="550" frameborder="0" scrolling="no"></iframe>
+            <iframe src="{{ site.calendar.url }}&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;wkst=2&amp;hl=de" style="border: 0" width="100%" height="550" frameborder="0" scrolling="no"></iframe>
           </div>
-        {% endif %}
+          {% endif %}
       </section>
       <footer>
         {% if site.github.is_project_page %}
