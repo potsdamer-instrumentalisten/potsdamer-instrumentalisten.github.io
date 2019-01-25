@@ -3,8 +3,6 @@ title: Hochschulgruppe Potsdamer Instrumentalisten
 layout: default
 ---
 
-# Diese Seite ist aktuell noch im Aufbau
-
 # Wer sind wir?
 Wir sind ein junges Ensemble von Blasmusikern, die gemeinsam musizieren wollen.
 
