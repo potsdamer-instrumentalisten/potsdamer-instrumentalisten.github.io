@@ -1,0 +1,119 @@
+---
+title: Kalender
+heading: Kalender
+subtitle: Finde unsere aktuellen Termine.
+---
+<link href='{{ site.baseurl }}/fullcalendar/packages/core/main.css' rel='stylesheet' />
+<link href='{{ site.baseurl }}/fullcalendar/packages/daygrid/main.min.css' rel='stylesheet' />
+<link href='{{ site.baseurl }}/fullcalendar/packages/list/main.min.css' rel='stylesheet' />
+
+<script src='{{ site.baseurl }}/fullcalendar/packages/core/main.js'></script>
+<script src='{{ site.baseurl }}/fullcalendar/packages/daygrid/main.js'></script>
+<script src='{{ site.baseurl }}/fullcalendar/packages/list/main.js'></script>
+<script src='{{ site.baseurl }}/fullcalendar/packages/google-calendar/main.js'></script>
+<script src='{{ site.baseurl }}/fullcalendar/packages/core/locales-all.min.js'></script>
+
+<script src='https://unpkg.com/popper.js/dist/umd/popper.min.js'></script>
+<script src='https://unpkg.com/tooltip.js/dist/umd/tooltip.min.js'></script>
+
+<script>
+	function tempAlert(msg, duration) {
+		var el = document.createElement("div");
+		el.setAttribute("class", "notification");
+		el.innerHTML = msg;
+
+		var wrapper = document.createElement("div");
+		wrapper.setAttribute("class", "notificationWrapper");
+		wrapper.appendChild(el);
+
+		setTimeout(function () {
+			wrapper.parentNode.removeChild(wrapper);
+		}, duration);
+		document.body.appendChild(wrapper);
+	}
+
+	document.addEventListener('DOMContentLoaded', function () {
+		var calendarEl = document.getElementById('calendar');
+
+		var calendar = new FullCalendar.Calendar(calendarEl, {
+			plugins: ['dayGrid', 'list', 'googleCalendar'],
+			eventLimit: true, // for all non-TimeGrid views
+			locale: 'de',
+			header: {
+				left: 'title',
+				center: '',
+				right: 'today prevYear,prev,next,nextYear'
+			},
+			footer: {
+				left: 'dayGridMonth,listMonth iCal',
+				center: '',
+				right: ''
+			},
+			customButtons: {
+				iCal: {
+					text: 'iCal',
+					click: function () {
+						const el = document.createElement('textarea');
+						el.value = '{{ site.google_calendar.ical }}';
+						document.body.appendChild(el);
+						el.select();
+						document.execCommand('copy');
+						document.body.removeChild(el);
+						tempAlert("Copied!", 2000);
+					}
+				}
+			},
+			eventRender: function(info) {
+				console.log(info);
+				var location = info.event.extendedProps.location || '-';
+				var time = info.event.start.toLocaleString();
+				var tooltip = new Tooltip(info.el, {
+				title: '<strong>' + info.event.title + '</strong><br><br><strong>Wann:</strong> ' + time + ' Uhr<br><strong>Wo:</strong> ' + location,
+				placement: 'top',
+				trigger: 'hover',
+				container: 'body',
+				html: 'true'
+			});
+			},
+
+
+
+			
+
+			/* renew? */
+			/**
+			 * TODOs
+			 * - change theme (colors and radius of elements)
+			 *   - elements company colory
+			 *   - current day -> footer grey
+			 *   - radius of buttons
+			 *   - list view?
+			 *   - make ist globally configurable
+			 *   - use .min.* versions
+			 */
+			googleCalendarApiKey: '{{ site.google_calendar.api_key }}',
+
+			// US Holidays
+			events: {
+				googleCalendarId: '{{ site.google_calendar.calendar_id }}'
+			}
+
+			/* eventClick: function(event) {
+			  // opens events in a popup window
+			  window.open(event.url, '_blank', 'width=700,height=600');
+			  return false;
+			} */
+		});
+
+		calendar.render();
+	});
+
+</script>
+
+
+<section class="diagonal patterned">
+	<div class="container">
+		<div id="calendar">
+		</div>
+	</div>
+</section>

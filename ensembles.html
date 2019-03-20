@@ -1,0 +1,26 @@
+---
+title: Portfolio
+heading: Our Work
+subtitle: See some of our proud customers with exemplary results.
+---
+
+<section class="diagonal patterned">
+	<div class="container">
+	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_ensembles/" class="btn"><strong>&#9998;</strong> Manage ensembles</a></p>
+		<ul class="image-grid">
+			{% for ensemble in site.ensembles %}
+				<li>
+					<a href="{{ site.baseurl }}{{ ensemble.url }}">
+						<img src="{% include relative-src.html src=ensemble.image_path %}" alt="{{ person.name }}">
+						<div class="details">
+							<div class="name">{{ ensemble.name }}</div>
+							<div class="position">{{ ensemble.subtitle }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+	</div>
+</section>

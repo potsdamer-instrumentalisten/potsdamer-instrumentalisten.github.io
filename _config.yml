@@ -1,10 +1,101 @@
 title: Hochschulgruppe Potsdamer Instrumentalisten
-description: " "
-theme: jekyll-theme-leap-day
-repository: potsdamer-instrumentalisten/potsdamer-instrumentalisten.github.io
-github:
-  is_project_page: False
-calendar:
-  show: True
-  url: https://calendar.google.com/calendar/embed?src=988mcobbk63uv1l1drvm46hb8c%40group.calendar.google.com&ctz=Europe%2FBerlin
-lang: de-DE
+url: "https://potsdamer-instrumentalisten.de/"
+baseurl:
+google_analytics_key:
+google_maps_javascript_api_key:
+google_calendar:
+  api_key: 'AIzaSyBiwxPGKclc0YpqyQ1GxSJw_HVdPrf3GmU'
+  calendar_id: '988mcobbk63uv1l1drvm46hb8c@group.calendar.google.com'
+  ical: 'https://calendar.google.com/calendar/ical/988mcobbk63uv1l1drvm46hb8c%40group.calendar.google.com/public/basic.ics'
+disqus_shortname:
+
+# Default description in social shares for the jekyll-seo-tag gem
+description: Jekyll template with example content for a web agency.
+
+# Author details for the jekyll-seo-tag gem
+author:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
+
+# Social details for the jekyll-seo-tag gem
+social:
+  name: Urban Template
+  links:
+    - https://github.com/CloudCannon/urban-jekyll-template
+
+timezone: Etc/UTC
+
+collections:
+  staff_members:
+    output: false
+  ensembles:
+    output: true
+
+paginate: 10
+paginate_path: "/blog/:num/"
+permalink: pretty
+
+jekyll-archives:
+  enabled:
+    - "categories"
+
+plugins:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-archives"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        content:
+          width: 960
+          height: 2000
+  - scope:
+      path: ""
+      type: "ensembles"
+    values:
+      layout: "ensemble"
+  - scope:
+      path: ""
+      type: "staff_members"
+    values:
+      _options:
+        image_path:
+          width: 600
+          height: 600
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "index.md"
+      type: "pages"
+    values:
+      layout: "home"
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS

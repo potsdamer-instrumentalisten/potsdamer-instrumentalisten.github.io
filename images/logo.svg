@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export hpi-logo.svg Zeichenblatt-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.25464in" height="2in" viewBox="0 0 306.334 144"
+		xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:6.375}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#ffffff;font-family:Arial;font-size:8.33334em;font-weight:bold}
+		.st4 {fill:#ffffff;font-family:Arial;font-size:10em;font-weight:bold}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group1-1" transform="translate(3.1875,-24.7953)" v:mID="1" v:groupContext="group">
+			<title>Musik</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape">
+				<title>Tabelle.2</title>
+				<path d="M85.04 58.96 L85.04 120.71 C84.68 125.15 80.38 129.82 73.92 132.15 C66.16 134.84 58.39 132.97 56.47 127.95
+							 C54.56 122.93 59.34 116.63 67.11 113.82 C70.94 112.42 74.76 112.19 77.87 112.89 L77.87 70.28 L28.87
+							 81.49 L28.87 130.17 C29.46 134.84 24.92 140.32 17.87 142.77 C10.1 145.46 2.33 143.59 0.42 138.57 C-1.49
+							 133.55 3.29 127.25 11.06 124.45 C14.76 123.05 18.59 122.81 21.7 123.51 L21.7 73.44 L85.04 58.96 Z"
+						class="st1"/>
+			</g>
+		</g>
+		<g id="shape3-4" v:mID="3" v:groupContext="shape" transform="translate(130.747,-51.2541)">
+			<title>Tabelle.3</title>
+			<desc>HPI</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.6063" cy="131.54" width="175.22" height="24.9192"/>
+			<rect x="0" y="119.081" width="175.213" height="24.9192" class="st2"/>
+			<text x="4.26" y="161.54" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>HPI</text>		</g>
+		<g id="shape5-7" v:mID="5" v:groupContext="shape" transform="translate(40.5733,-62)">
+			<title>Tabelle.5</title>
+			<desc>|</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76" cy="134" width="152" height="20"/>
+			<rect x="0" y="124" width="152" height="20" class="st2"/>
+			<text x="59.21" y="170" class="st4" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>|</text>		</g>
+	</g>
+</svg>

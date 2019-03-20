@@ -1,0 +1,9 @@
+links:
+#- name: Ensembles
+#  link: /ensembles/
+#- name: Blog
+#  link: /blog/
+- name: Kalender
+  link: /kalender/
+- name: Kontakt
+  link: /kontakt/
