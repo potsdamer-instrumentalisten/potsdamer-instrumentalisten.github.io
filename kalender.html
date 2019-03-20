@@ -78,41 +78,14 @@ subtitle: Finde unsere aktuellen Termine.
 				html: 'true'
 			});
 			},
-
-
-
-			
-
-			/* renew? */
-			/**
-			 * TODOs
-			 * - change theme (colors and radius of elements)
-			 *   - elements company colory
-			 *   - current day -> footer grey
-			 *   - radius of buttons
-			 *   - list view?
-			 *   - make ist globally configurable
-			 *   - use .min.* versions
-			 */
 			googleCalendarApiKey: '{{ site.google_calendar.api_key }}',
-
-			// US Holidays
 			events: {
 				googleCalendarId: '{{ site.google_calendar.calendar_id }}'
 			}
-
-			/* eventClick: function(event) {
-			  // opens events in a popup window
-			  window.open(event.url, '_blank', 'width=700,height=600');
-			  return false;
-			} */
 		});
-
 		calendar.render();
 	});
-
 </script>
-
 
 <section class="diagonal patterned">
 	<div class="container">
