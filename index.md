@@ -5,7 +5,7 @@ subtitle:
 
 Wir sind eine registrierte Hochschulgruppe der [Universität Potsdam](https://www.uni-potsdam.de/de/organisation/weitere-einrichtungen/eingetragene-vereinigungen.html).
 Unser Ziel ist das gemeinsame instrumentale musizieren!
-Bei uns ist grundsätzlich jeder Willkommen, der bereits ein Instrument spielen kann.
+Bei uns ist grundsätzlich jeder willkommen, der bereits ein Instrument spielen kann.
 Es ist dabei zweitrangig, ob du an der Universität Potsdam studierst!
 Wenn du Interesse hast, bei uns mitzumachen, dann [kontaktiere](/kontakt) uns!
 Wir sind immer auf der Suche nach neuen Mitstreitern.
