@@ -1,4 +1,6 @@
 links:
+- name: Home
+  link: /
 #- name: Ensembles
 #  link: /ensembles/
 #- name: Blog
