@@ -10,19 +10,18 @@ google_calendar:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: Blasorchester an der Universität Potsdam
 
 # Author details for the jekyll-seo-tag gem
 author:
   name:
-  email:
+  email: vorstand@potsdamer-instrumentalisten.de
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name:
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
 
 timezone: Etc/UTC
 
