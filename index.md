@@ -3,6 +3,8 @@ title: Hochschulgruppe Potsdamer Instrumentalisten
 subtitle: 
 ---
 
+**Hinweis: Momentan können leider keine Proben stattfinden. Wenn du Interesse hast bei uns mitzuspielen, freuen wir uns trotzdem über eine Nachricht.**
+
 Wir sind eine registrierte Hochschulgruppe der [Universität Potsdam](https://www.uni-potsdam.de/de/organisation/weitere-einrichtungen/eingetragene-vereinigungen.html).
 Unser Ziel ist das gemeinsame instrumentale musizieren!
 Bei uns ist grundsätzlich jeder willkommen, der bereits ein Instrument spielen kann.
