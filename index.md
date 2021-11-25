@@ -28,8 +28,8 @@ Die gespielten Stücke werden entsprechend ausgewählt.
 In der Regel spielen wir dabei moderne Unterhaltungsmusik im mittleren Schwierigkeitsgrad.
 Dazu gehören Filmmusik, Arrangements aus der Pop-Musik und originale Werke für Blasorchester.
 
-Grundsätzlich sind alle Instrumente willkommen, die zum Blasorchester gehören.
-Besonders freuen wir uns über Klarinetten, Hörner, Tenor-Sax, Bari-Sax und Flöten.
+Grundsätzlich sind alle Instrumente willkommen, die zum Blasorchester gehören.<!-- 
+Besonders freuen wir uns über Klarinetten, Hörner, Tenor-Sax, Bari-Sax und Flöten. -->
 Wenn du also Lust hast mitzumachen, dann komme gerne vorbei oder kontaktiere uns über die [Kontakt](/kontakt)-Seite.
 Die aktuellen Probe-Termine stehen im [Kalender](/kalender).
 In der Regel proben wir am Donnerstag um 19:00 Uhr auf dem Campus Griebnitzsee. 
