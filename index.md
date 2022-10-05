@@ -1,22 +1,29 @@
 ---
 title: Potsdamer Instrumentalisten
-subtitle: Registrierte Hochschulgruppe der Universität Potsdam
-stripe: Wir proben jeden Donnerstag um 19:00 im<br>Hörsaal 10, Haus 1, Campus Griebnitzsee.<br><a style="color:white" href="/kontakt">Kontaktiert</a> uns gerne, wenn ihr mal vorbeischauen wollt!
+subtitle: Hochschulgruppe an der Universität Potsdam
+stripe: <h2 style="font-size:30px;">Wir proben&#58; <br><br><strong>Donnerstags um 19 Uhr</strong><br><strong>Hörsaal 10, Haus 1 am Campus Griebnitzsee</strong><br><br>Kontaktiert uns gerne, wenn ihr vorbeischauen wollt!</h2> 
 ---
 
-Wir sind eine registrierte Hochschulgruppe der [Universität Potsdam](https://www.uni-potsdam.de/de/organisation/weitere-einrichtungen/eingetragene-vereinigungen.html).
-Unser Ziel ist das gemeinsame instrumentale Musizieren!
-Bei uns ist grundsätzlich jeder willkommen, der bereits ein Instrument spielen kann.
-Es ist dabei zweitrangig, ob du an der Universität Potsdam studierst!
-Wenn du Interesse hast, bei uns mitzumachen, dann [kontaktiere](/kontakt) uns!
-Wir sind immer auf der Suche nach neuen Mitstreitern.
+Wir sind die Potsdamer Instrumentalisten: 
+Eine Hochschulgruppe der [Universität Potsdam](https://www.uni-potsdam.de/de/organisation/weitere-einrichtungen/eingetragene-vereinigungen.html) von Studierenden für Studierende. 
+Wir schaffen ein Umfeld, in dem Musiker*innen verschiedenster Fachrichtungen seit 2018
+zwanglos zusammen musizieren können, da bei uns Spaß im Vordergrund steht.
+Alle sind in unserem Orchester willkommen, denn:
 
+**WIR SUCHEN DICH!**
+
+
+
+Unser Ziel ist das gemeinsame Musizieren!
+Bei uns ist grundsätzlich jede Person willkommen, die bereits ein Instrument spielen kann.
+Es ist dabei zweitrangig, ob Du an der Universität Potsdam studierst!
+Wenn Du Interesse hast, bei uns mitzumachen, dann [kontaktiere](/kontakt) uns!
+Wir sind immer auf der Suche nach neuen Instrumentalisten.
 In unserem [Kalender](/kalender) findest du immer die aktuellen Termine unserer Hochschulgruppe und [Ensembles](#ensembles).
-Du bist gerne eingeladen auch spontan vorbeizuschauen!
-Bitte beachte aber, dass wir nicht immer alle Noten vorrätig haben.
+
 Das erforderliche Können hängt dabei vom jeweiligen [Ensemble](#ensembles) ab.
 
-Aktuell ist kein passendes Ensemble dabei, aber du hast eine Idee für ein neues Ensemble?
+Aktuell ist kein passendes Ensemble dabei, aber Du hast eine Idee für ein neues Ensemble?
 Dann kontaktiere uns und zusammen sehen wir, was möglich ist!
 
 ## Ensembles
