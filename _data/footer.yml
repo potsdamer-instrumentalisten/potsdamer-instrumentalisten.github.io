@@ -1,4 +1,4 @@
-- title: 
+- title: Navigation
   links:
     - name: Home
       link: /
@@ -16,3 +16,10 @@
 #      link:
 #      social_icon: Facebook
 #      new_window: true
+
+- title: Social
+  links:
+    - name: Instagram
+      link: https://www.instagram.com/potsdamerinstrumentalisten/
+      social_icon: Instagram
+      new_window: true

@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-<section class="hero diagonal">
+<img src="{{ site.baseurl }}/images/IMG-0004.jpg" style="position: fixed;width: 100%; top: -50%">
+
+<section class="hero diagonal alternate">
 	<div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>
 		{% if page.heading %}
 			<h2>{{ page.heading }}</h2>
@@ -14,6 +16,15 @@ layout: default
         <p><a class="button alt" href="{{ site.baseurl }}/kontakt/">Kontaktiere uns</a></p>
 	</div>
 </section>
+
+<section class="diagonal stripe">
+    <div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>
+		{% if page.stripe %}
+        	<h3>{{ page.stripe }}</h3>
+		{% endif %}
+    </div>
+</section>
+
 
 <section class="diagonal alternate">
     <div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>

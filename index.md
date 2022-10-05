@@ -1,6 +1,7 @@
 ---
-title: Hochschulgruppe Potsdamer Instrumentalisten
-subtitle: 
+title: Potsdamer Instrumentalisten
+subtitle: Registrierte Hochschulgruppe der Universität Potsdam
+stripe: Wir proben jeden Donnerstag um 19:00 im<br>Hörsaal 10, Haus 1, Campus Griebnitzsee.<br><a style="color:white" href="/kontakt">Kontaktiert</a> uns gerne, wenn ihr mal vorbeischauen wollt!
 ---
 
 Wir sind eine registrierte Hochschulgruppe der [Universität Potsdam](https://www.uni-potsdam.de/de/organisation/weitere-einrichtungen/eingetragene-vereinigungen.html).

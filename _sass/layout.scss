@@ -99,8 +99,17 @@ section {
 		}
 	}
 
+	&.hero.alternate {
+		background: #999a;
+	}
+
 	&.alternate {
 		background: #eee;
+	}
+
+	&.stripe {
+		color: #ffffff;
+		background: $brand-color;
 	}
 }
 
