@@ -272,3 +272,18 @@ section {
 	filter: invert(100%);
 }
 
+.background_img {
+	position: fixed; 
+	width: 100%; 
+	top: 25%;
+	left: 50%;
+	transform: translate(-50%, -50%); 
+	max-width: 500%;
+}
+
+@media (max-aspect-ratio: 5184/3456) {
+	.background_img {
+		height: 100vh;
+		width: auto;
+	}
+  }
