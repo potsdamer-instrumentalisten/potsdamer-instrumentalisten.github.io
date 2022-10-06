@@ -88,6 +88,12 @@ section {
 			font-size: 3.5rem;
 		}
 
+		@media (max-width: 600px) {
+			h2 {
+				font-size:9vw;
+			}
+		} 
+
 		p {
 			font-size: 1.8rem;
 			color: #fff;
@@ -255,3 +261,29 @@ section {
 		color: #173757;
 	}
 }
+
+.logo {
+	position: absolute;
+	width: 22%;
+	right: 0px;
+	//top: 5%;
+	top: 0%;   
+	-webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+	filter: invert(100%);
+}
+
+.background_img {
+	position: fixed; 
+	width: 100%; 
+	top: 25%;
+	left: 50%;
+	transform: translate(-50%, -50%); 
+	max-width: 500%;
+}
+
+@media (max-aspect-ratio: 5184/3456) {
+	.background_img {
+		height: 120vh;
+		width: auto;
+	}
+  }
