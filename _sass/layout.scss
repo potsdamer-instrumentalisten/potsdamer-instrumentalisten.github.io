@@ -106,7 +106,7 @@ section {
 	}
 
 	&.hero.alternate {
-		background: #999a;
+		background: #173757aa;
 	}
 
 	&.alternate {
@@ -254,11 +254,11 @@ section {
 }
 
 .patterned {
-	background: rgb(255, 255, 255);
+	background: #173757 url($pattern);
 
 	&,
 	p {
-		color: #173757;
+		color: #fefefe;
 	}
 }
 

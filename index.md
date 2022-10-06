@@ -40,8 +40,8 @@ Das Orchester besteht aktuell aus Musizierenden, die vorallem aus den Naturwisse
 In der Regel spielen wir moderne Unterhaltungsmusik im mittleren Schwierigkeitsgrad.
 Dazu gehören Filmmusik, Arrangements aus der Pop-Musik und originale Werke für Blasorchester.
 
-Grundsätzlich sind alle Instrumente willkommen, die zum Blasorchester gehören.<!-- 
-Besonders freuen wir uns über Unterstützung in der tiefen Fraktion, das heißt Tuben und Euphonien -->
+Grundsätzlich sind alle Instrumente willkommen, die zum Blasorchester gehören.
+Besonders freuen wir uns aktuell über Unterstützung in der tiefen Fraktion, das heißt Tuben und Euphonien.
 Wenn Du also Lust hast mitzumachen, dann kontaktiere uns über die [Kontakt](/kontakt)-Seite.
 Die aktuellen Proben findest Du im [Kalender](/kalender). 
 
