@@ -7,17 +7,18 @@ layout: default
 
 <section class="hero diagonal alternate">
 	<div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>
-		{% if page.heading %}
-			<h2>{{ page.heading }}</h2>
-		{% elsif page.title %}
-			<h2>{{ page.title }}</h2>
-		{% endif %}
-		{% if page.subtitle %}
-			<p class="subtext">{{ page.subtitle }}</p>
-        {% endif %}
-        <p><a class="button alt" href="{{ site.baseurl }}/kontakt/">Kontaktiere uns</a></p>
-		<img src="logo.svg" style="position: absolute;height: 90%;right: 0px;top: 5%;   -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
-		filter: invert(100%);">
+		<div style="width: 80%;">
+			{% if page.heading %}
+				<h2>{{ page.heading }}</h2>
+			{% elsif page.title %}
+				<h2>{{ page.title }}</h2>
+			{% endif %}
+			{% if page.subtitle %}
+				<p class="subtext">{{ page.subtitle }}</p>
+			{% endif %}
+			<p><a class="button alt" href="{{ site.baseurl }}/kontakt/">Kontaktiere uns</a></p>
+		</div>
+		<img class="logo" src="logo.svg">
 	</div>
 </section>
 

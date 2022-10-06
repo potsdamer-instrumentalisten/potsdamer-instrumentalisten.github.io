@@ -88,6 +88,12 @@ section {
 			font-size: 3.5rem;
 		}
 
+		@media (max-width: 600px) {
+			h2 {
+				font-size:9vw;
+			}
+		} 
+
 		p {
 			font-size: 1.8rem;
 			color: #fff;
@@ -255,3 +261,14 @@ section {
 		color: #fefefe;
 	}
 }
+
+.logo {
+	position: absolute;
+	width: 22%;
+	right: 0px;
+	//top: 5%;
+	top: 0%;   
+	-webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+	filter: invert(100%);
+}
+
