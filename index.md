@@ -12,35 +12,38 @@ Alle sind in unserem Orchester willkommen, denn:
 
 **WIR SUCHEN DICH!**
 
+<br>
 
+---
 
+<br>
 Unser Ziel ist das gemeinsame Musizieren!
 Bei uns ist grundsätzlich jede Person willkommen, die bereits ein Instrument spielen kann.
 Es ist dabei zweitrangig, ob Du an der Universität Potsdam studierst!
-Wenn Du Interesse hast, bei uns mitzumachen, dann [kontaktiere](/kontakt) uns!
+Wenn Du Interesse hast, bei uns mitzumachen, dann [kontaktiere](/kontakt) uns!<br><br>
 Wir sind immer auf der Suche nach neuen Instrumentalisten.
 In unserem [Kalender](/kalender) findest du immer die aktuellen Termine unserer Hochschulgruppe und [Ensembles](#ensembles).
-
-Das erforderliche Können hängt dabei vom jeweiligen [Ensemble](#ensembles) ab.
-
+Das erforderliche Können hängt dabei vom jeweiligen Ensemble ab.<br><br>
 Aktuell ist kein passendes Ensemble dabei, aber Du hast eine Idee für ein neues Ensemble?
 Dann kontaktiere uns und zusammen sehen wir, was möglich ist!
 
+<br>
+
+---
+
+<br>
 ## Ensembles
 
-### Blasorchester
+#### Blasorchester
 
-Das Orchester besteht aktuell aus Musikern mit sehr unterschiedlichem Können.
-Unser Ziel ist vor allem Spaß am Musizieren zu haben.
-Die gespielten Stücke werden entsprechend ausgewählt.
-In der Regel spielen wir dabei moderne Unterhaltungsmusik im mittleren Schwierigkeitsgrad.
+Das Orchester besteht aktuell aus Musizierenden, die vorallem aus den Naturwissenschaften kommen.
+In der Regel spielen wir moderne Unterhaltungsmusik im mittleren Schwierigkeitsgrad.
 Dazu gehören Filmmusik, Arrangements aus der Pop-Musik und originale Werke für Blasorchester.
 
 Grundsätzlich sind alle Instrumente willkommen, die zum Blasorchester gehören.<!-- 
-Besonders freuen wir uns über Klarinetten, Hörner, Tenor-Sax, Bari-Sax und Flöten. -->
-Wenn du also Lust hast mitzumachen, dann komme gerne vorbei oder kontaktiere uns über die [Kontakt](/kontakt)-Seite.
-Die aktuellen Probe-Termine stehen im [Kalender](/kalender).
-In der Regel proben wir am Donnerstag um 19:00 Uhr auf dem Campus Griebnitzsee. 
+Besonders freuen wir uns über Unterstützung in der tiefen Fraktion, das heißt Tuben und Euphonien -->
+Wenn Du also Lust hast mitzumachen, dann kontaktiere uns über die [Kontakt](/kontakt)-Seite.
+Die aktuellen Proben findest Du im [Kalender](/kalender). 
 
-Hinweis für Schlagzeuger: Wir freuen uns auch über euch.
+Hinweis an das Schlagwerk: Wir freuen uns auch über euch.
 Allerdings können wir keine Instrumente stellen und nichts in der Universität lagern.
