@@ -1,7 +1,7 @@
 ---
 title: Potsdamer Instrumentalisten
 subtitle: Hochschulgruppe an der Universität Potsdam
-stripe: <h2 style="font-size:30px;">Wir proben&#58; <br><br><strong>Donnerstags um 19 Uhr</strong><br><strong>Hörsaal 10, Haus 1 am Campus Griebnitzsee</strong><br><br>Kontaktiert uns gerne, wenn ihr vorbeischauen wollt!</h2> 
+stripe: <h2 style="font-size:30px;">Wir proben&#58; <br><br><strong>Dienstags um 19 Uhr</strong><br><strong>Hörsaal 10, Haus 1 am Campus Griebnitzsee</strong><br><br>Kontaktiert uns gerne, wenn ihr vorbeischauen wollt!</h2> 
 ---
 
 Wir sind die Potsdamer Instrumentalisten: 
