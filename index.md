@@ -15,6 +15,7 @@ Der Eintritt ist frei, um Spenden wird gebeten.
 
 --- 
 
+<br>
 ## Wer wir sind
 
 Wir sind die Potsdamer Instrumentalisten: 
