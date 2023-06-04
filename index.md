@@ -1,7 +1,17 @@
 ---
 title: Potsdamer Instrumentalisten
 subtitle: Hochschulgruppe an der Universität Potsdam
-stripe: <h2 style="font-size:30px;">Wir proben&#58; <br><br><strong>Dienstags um 19 Uhr</strong><br><strong>Hörsaal 10, Haus 1 am Campus Griebnitzsee</strong><br><br>Kontaktiert uns gerne, wenn ihr vorbeischauen wollt!</h2> 
+#stripe: <h2 style="font-size:30px;">Wir proben&#58; <br><br><strong>Dienstags um 19 Uhr</strong><br><strong>Hörsaal 10, Haus 1 am Campus Griebnitzsee</strong><br><br>Kontaktiert uns gerne, wenn ihr vorbeischauen wollt!</h2> 
+stripe: <h2 style="font-size:30px;">HERE COMES THE SUN&#58; <br><br><strong>Samstag, der 17. Juni 2023</strong><br><strong>Audimax, Haus 8 Campus Am Neuen Palais</strong><br><br>Sommerkonzert der Potsdamer Instrumentalisten und des Chorlektiv Potsdam e.V.</h2> 
+---
+<img src="images/Sommerkonzert2023.jpg" alt="Sommerkonzert">
+Wir laden euch herzlich zu unserem Sommerkonzert am 17. Juni um 18:00 Uhr im Audimax ein!
+
+Gemeinsam mit dem Chorlektiv Potsdam e.V. gestaltet die Hochschulgruppe Potsdamer Instrumentalisten ein bunt gemischtes Konzertprogramm. Euch erwartet ein kurzweiliger Abend mit klassischen und modernen Klängen von Chor und Blasorchester. Der Einlass beginnt um 17:40, nach der Hälfte des Konzerts wird es eine Getränkepause geben.
+
+Der Eintritt ist frei, um Spenden wird gebeten.
+
+<br>
 ---
 
 Wir sind die Potsdamer Instrumentalisten: 
@@ -40,8 +50,8 @@ Das Orchester besteht aktuell aus Musizierenden, die vorallem aus den Naturwisse
 In der Regel spielen wir moderne Unterhaltungsmusik im mittleren Schwierigkeitsgrad.
 Dazu gehören Filmmusik, Arrangements aus der Pop-Musik und originale Werke für Blasorchester.
 
-Grundsätzlich sind alle Instrumente willkommen, die zum Blasorchester gehören.
-Besonders freuen wir uns aktuell über Unterstützung in der tiefen Fraktion, das heißt Tuben und Euphonien.
+Grundsätzlich sind alle Instrumente willkommen, die zum Blasorchester gehören.<!-- 
+Besonders freuen wir uns über Unterstützung in der tiefen Fraktion, das heißt Tuben und Euphonien -->
 Wenn Du also Lust hast mitzumachen, dann kontaktiere uns über die [Kontakt](/kontakt)-Seite.
 Die aktuellen Proben findest Du im [Kalender](/kalender). 
 
