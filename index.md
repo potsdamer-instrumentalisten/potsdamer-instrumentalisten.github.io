@@ -1,9 +1,10 @@
 ---
 title: Potsdamer Instrumentalisten
 subtitle: Hochschulgruppe an der Universität Potsdam
-#stripe: <h2 style="font-size:30px;">Wir proben&#58; <br><br><strong>Dienstags um 19 Uhr</strong><br><strong>Hörsaal 10, Haus 1 am Campus Griebnitzsee</strong><br><br>Kontaktiert uns gerne, wenn ihr vorbeischauen wollt!</h2> 
-stripe: <h2 style="font-size:30px;">HERE COMES THE SUN&#58; <br><br><strong>Samstag, der 17. Juni 2023</strong><br><strong>Audimax, Haus 8 Campus Am Neuen Palais</strong><br><br>Sommerkonzert der Potsdamer Instrumentalisten und des Chorlektiv Potsdam e.V.</h2> 
+stripe: <h2 style="font-size:30px;">Wir proben&#58; <br><br><strong>Dienstags um 19 Uhr</strong><br><strong>Hörsaal 10, Haus 1 am Campus Griebnitzsee</strong><br><br>Kontaktiert uns gerne, wenn ihr vorbeischauen wollt!</h2> 
+#stripe: <h2 style="font-size:30px;">HERE COMES THE SUN&#58; <br><br><strong>Samstag, der 17. Juni 2023</strong><br><strong>Audimax, Haus 8 Campus Am Neuen Palais</strong><br><br>Sommerkonzert der Potsdamer Instrumentalisten und des Chorlektiv Potsdam e.V.</h2> 
 ---
+<!-- INFO: SOMMERKONZERT2023. BLEIBT ERHALTEN ALS TEMPLATE FÜR ZUKÜNFTIGE VERANSTALTUNGEN
 <img src="images/Sommerkonzert2023.jpg" alt="Sommerkonzert">
 Wir laden euch herzlich zu unserem Sommerkonzert am 17. Juni um 18:00 Uhr im Audimax ein!
 
@@ -16,6 +17,7 @@ Der Eintritt ist frei, um Spenden wird gebeten.
 --- 
 
 <br>
+-->
 ## Wer wir sind
 
 Wir sind die Potsdamer Instrumentalisten: 
